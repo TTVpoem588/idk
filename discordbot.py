@@ -7,7 +7,7 @@ import os
 from discord.ext import commands
 
 # Your bot token goes here
-TOKEN = "MTExNTk1MTYxOTk4MTQ1OTQ5Ng.GLfrnl.-MFe-r-6wgvNcsXuyByEv9cxVUr9bHa4TBmj0A"
+TOKEN = "MTExNTk1MTYxOTk4MTQ1OTQ5Ng.Gq7ufI.3eMeHcO-l4q7QYWx6Jga3-PVyUhzp2Nv2XVajo"
 
 # Define the intents your bot requires
 intents = discord.Intents.default()
